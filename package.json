@@ -1,0 +1,22 @@
+{
+  "name": "fis3-postprocessor-autoprefixer",
+  "version": "0.0.1",
+  "description": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website for fis3",
+  "main": "index.js",
+  "author": "daoyuly <liudaoyu@outlook.com>",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.2.4",
+    "autoprefixer": "^6.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "fis3",
+    "autoprefixer",
+    "css",
+    "prefix",
+    "postcss",
+    "fis-plugin"
+  ]
+ }
